@@ -1,4 +1,4 @@
-# flask_fast_api
+# flask_api_service_setup
 
 Setup simple flask api that reads in csv file setup with nginx on ubuntu vm
 
