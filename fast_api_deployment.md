@@ -109,3 +109,12 @@ Run (this runs in the background:
 ```
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
+
+Access:
+
+```
+http://x.x.x.x/
+http://x.x.x.x/api/docs
+http://x.x.x.x/api/v1/openapi.json"
+http://x.x.x.x/data
+```
